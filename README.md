@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abolfazl Siavoshi
+# 👋 Hi, I'm Abolfazl Siavashi
 
 💻 Computer Engineering Student  
 I design and build Artificial Intelligence systems from scratch — not just using pre-built models, but creating them myself.
