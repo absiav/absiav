@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abolfazl Siavashi
+# 👋 Hi, I'm Abel Siavashi
 
 💻 Computer Engineering Student  
 I design and build Artificial Intelligence systems from scratch — not just using pre-built models, but creating them myself.
@@ -57,7 +57,7 @@ I design and build Artificial Intelligence systems from scratch — not just usi
 
 - Telegram : https://t.me/abolfazlsiavashi
 - Email: abolfazl.siavashi11@gmail.com
-- instgram : https://www.instagram.com/abolfazl.siavashi1
+- instgram : https://www.instagram.com/abel.siavashi
 - X : https://x.com/aabolfazl_s
 
 ---
